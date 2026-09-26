@@ -1,0 +1,13 @@
+فایل‌های تغییرکرده برای سازگاری با Sanaei 3x-ui v3.8.5
+
+این فایل‌ها را در همان مسیرهای پروژه GitHub جایگزین کنید:
+- config.php در ریشه پروژه
+- bot.php در ریشه پروژه
+- createDB.php در ریشه پروژه
+- README.md در ریشه پروژه
+- CHANGELOG-v3.md در ریشه پروژه
+- install/update.php در پوشه install
+
+نکته: قبل از جایگزینی، از نسخه فعلی فایل‌ها بکاپ بگیرید.
+
+روش ساده‌تر: فایل wizwizxui-timebot-main-full.zip را کامل Extract کنید و کل محتوای پوشه را در GitHub آپلود کنید.
